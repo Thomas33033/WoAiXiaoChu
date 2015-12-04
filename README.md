@@ -1,2 +1,3 @@
 # WoAiXiaoChu
-Including server and client and other numerical file
+主要包括服务端和客户端源代码
+
